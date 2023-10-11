@@ -93,7 +93,7 @@ namespace UniversalGameLauncher {
         }
 
         private void LoadApplicationIcon() {
-            WebRequest request = (HttpWebRequest)WebRequest.Create(Constants.APPLICATION_ICON_URL);
+           /*WebRequest request = (HttpWebRequest)WebRequest.Create(Constants.APPLICATION_ICON_URL);
 
             Bitmap bm = new Bitmap(32,32); 
             MemoryStream memStream;
@@ -109,7 +109,8 @@ namespace UniversalGameLauncher {
                 } while (byteCount > 0);
             }
 
-            bm = new Bitmap(Image.FromStream(memStream));                 
+            bm = new Bitmap(Image.FromStream(memStream));*/                 
+            Bitmap bm = null;
 
             if (bm != null) {
                 Icon = Icon.FromHandle(bm.GetHicon());
@@ -119,7 +120,8 @@ namespace UniversalGameLauncher {
 
         private void InitializeVersionControl() {
             currentVersionLabel.Text = Properties.Settings.Default.VersionText;
-            OnlineVersion = GetOnlineVersion();
+            //OnlineVersion = GetOnlineVersion();
+            OnlineVersion = LocalVersion;
 
             Console.WriteLine("We are on version " + LocalVersion + " and the online version is " + OnlineVersion);
         }

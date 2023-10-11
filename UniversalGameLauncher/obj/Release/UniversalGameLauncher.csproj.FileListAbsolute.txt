@@ -26,3 +26,18 @@ C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLaunc
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CopyComplete
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.exe
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\GameLauncherRepository\UniversalGameLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.pdb
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.exe.config
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.exe
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\UniversalGameLauncher.pdb
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Code\xRCSimLauncher\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.AssemblyReference.cache
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.Application.resources
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.Properties.Resources.resources
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.GenerateResource.cache
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CoreCompileInputs.cache
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.csproj.CopyComplete
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.exe
+C:\Code\xRCSimLauncher\UniversalGameLauncher\obj\Release\UniversalGameLauncher.pdb
